@@ -7,24 +7,24 @@ In the Demo, we used this tool to link cards to a specific map state of the laye
 
 **Unchecked items are not on the project yet, but planned for release and should show up in the future.**
 ### Camera initial set up (in “Map Component”)
-[x] Latitude/longitude 
-[x] Zoom level
-[x] Pitch
-[x] Bearing
+- [x] Latitude/longitude 
+- [x] Zoom level
+- [x] Pitch
+- [x] Bearing
 ### Camera state set up (per-card)
-[x] Latitude/longitude 
-[x] Zoom level
-[x] Pitch
-[x] Bearing
-[ ] Zoom to feature/layer
+- [x] Latitude/longitude 
+- [x] Zoom level
+- [x] Pitch
+- [x] Bearing
+- [ ] Zoom to feature/layer
 ### Visibility
-[x] Hide layers: inherit setting from the map
-[x] Show layers: override
+- [x] Hide layers: inherit setting from the map
+- [x] Show layers: override
 ### Data source manipulation
-[ ] Override layer info: Target layer and add a custom source file override (url/GeoJSON)
-[ ] Filter by layer type 
+- [ ] Override layer info: Target layer and add a custom source file override (url/GeoJSON)
+- [ ] Filter by layer type 
 ### Parametric design
-[ ] Dynamic styling: conditional styling based on dataset values.
+- [ ] Dynamic styling: conditional styling based on dataset values.
 
 Much of the initial development of this component has taken place in the [“Design Tools Hackathon 2018”](https://www.designtoolstlv.com/), hosted in Tel-Aviv.
 This component is in active development.
