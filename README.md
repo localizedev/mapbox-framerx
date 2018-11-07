@@ -1,9 +1,14 @@
 # FramerX - Mapbox Component
 
-## Feature Overview
+## Introduction
 This project is a work in progress.
 The goal of the project is to build a powerful Mapbox prototyping tool in FramerX, allowing us to link between different map states and page element states.
 In the Demo, we used this tool to link cards to a specific map state of the layers’ visibility and camera position.
+
+![](./screenshots/framerx-mapbox-img.png)
+![](./screenshots/framerx-mapbox-img2.png)
+
+## Feature Overview
 
 **Unchecked items are not on the project yet, but planned for release and should show up in the future.**
 ### Camera initial set up (in “Map Component”)
