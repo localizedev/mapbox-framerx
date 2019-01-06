@@ -25,6 +25,11 @@ In the Demo, we used this tool to link cards to a specific map state of the laye
 ### Visibility
 - [x] Hide layers: inherit setting from the map
 - [x] Show layers: override
+### Interaction controllers
+- [x] Page Component
+- [ ] Mouse interactions
+- [ ] Scroll interactions
+- [ ] integration with 3rd party components
 ### Data source manipulation
 - [ ] Override layer info: Target layer and add a custom source file override (url/GeoJSON)
 - [ ] Filter by layer type 
